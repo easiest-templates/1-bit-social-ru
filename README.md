@@ -1,19 +1,10 @@
-# PixelLink — Лендинг социальной платформы
+# PixelLink
 
-![Preview](https://cdn.poehali.dev/templates/1-bit-social-ru/preview.jpg)
+![Preview](https://cdn.poehali.dev/templates/1-bit-social-ru/cover.jpg)
 
-Минималистичный лендинг для социальной платформы в стиле 1-bit. Чёрно-белая эстетика, пиксельные акценты и чистая типографика.
+Минималистичный лендинг для социальной платформы в ретро-стиле 1-bit. Чёрно-белая палитра с пиксельными акцентами, чистая типографика и выразительные контрасты. Идеально подходит для креативных проектов, инди-приложений и платформ с уникальной визуальной идентичностью.
 
-## Quick Start
-
-```bash
-npm install
-npm run dev
 ```
-
-## Tech Stack
-
-- React 18 + Vite
-- Tailwind CSS
-- shadcn/ui
-- Framer Motion
+"category": "landing"
+"tags": ["light", "minimal", "retro", "social"]
+```
